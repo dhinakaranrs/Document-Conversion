@@ -17,7 +17,7 @@ MESSAGEBODY=(mention in " " to enter a messagebody)"Hello There, Welcome to the 
 Here we are practicing something good to gain our knowledge ;) "	
 SUBJECT="This is a test. "
 
-"menion(without quotes, just cmd's) the commands you would like to run
+"mention(without quotes, just cmd's) the commands you would like to run
 see a sample:
 
 df -h > /tmp/diskusage.txt #CONVERTS INTO YOUR DESIRED DOCUMENT FILE FORMAT(Try PDF, DOCX)
